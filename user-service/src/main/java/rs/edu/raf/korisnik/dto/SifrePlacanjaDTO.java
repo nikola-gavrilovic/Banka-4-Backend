@@ -11,8 +11,8 @@ import lombok.NoArgsConstructor;
 @Builder
 public class SifrePlacanjaDTO {
 
-    private Long id;
-    private Integer oblikIOsnov;
-    private String opisPlacanja;
+  private Long id;
+  private Integer oblikIOsnov;
+  private String opisPlacanja;
 
 }

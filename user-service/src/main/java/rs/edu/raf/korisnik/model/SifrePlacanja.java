@@ -15,15 +15,15 @@ import java.io.Serializable;
 @AllArgsConstructor
 public class SifrePlacanja implements Serializable {
 
-    @Serial
-    private static final long serialVersionUID = 4378291499382768950L;
+  @Serial
+  private static final long serialVersionUID = 4378291499382768950L;
 
-    @Id
-    @GeneratedValue (strategy = GenerationType.IDENTITY)
-    private Long id;
-    @Column(name = "OBLIK_I_OSNOV")
-    private Integer oblikIOsnov;
-    @Column(name = "OPIS_PLACANJA")
-    private String opisPlacanja;
+  @Id
+  @GeneratedValue (strategy = GenerationType.IDENTITY)
+  private Long id;
+  @Column(name = "OBLIK_I_OSNOV")
+  private Integer oblikIOsnov;
+  @Column(name = "OPIS_PLACANJA")
+  private String opisPlacanja;
 
 }
