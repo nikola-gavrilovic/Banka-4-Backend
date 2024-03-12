@@ -21,8 +21,6 @@ Wuser-service/src/main/java/rs/edu/raf/korisnik/servis/impl/SifrePlacanjaServisI
 Quser-service/src/main/java/rs/edu/raf/korisnik/servis/OmiljeniKorisnikServis.java,5\0\504baee46fffc162235913ec193acf51e524daf1
 ~
 Nuser-service/src/main/java/rs/edu/raf/korisnik/servis/SifrePlacanjaServis.java,4\2\42bc40c78ed219340b7f0548fe29e3a4de526424
-@
-Backend-Bank.iml,8\b\8bc0c1c748d1270c73b7603ff3aebcac189007e2
 ~
 Nuser-service/src/main/java/rs/edu/raf/korisnik/servis/SifrePlacanjaMapper.java,d\7\d749053c7bfeaab5176e00fc6c283d8fab286b94
 ]
