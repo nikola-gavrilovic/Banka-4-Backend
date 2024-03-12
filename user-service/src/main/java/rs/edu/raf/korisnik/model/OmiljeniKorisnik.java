@@ -17,6 +17,7 @@ public class OmiljeniKorisnik implements Serializable {
   @Serial
   private static final long serialVersionUID = -6964392219393560447L;
 
+
   @Id
   @GeneratedValue (strategy = GenerationType.IDENTITY)
   private Long id;
